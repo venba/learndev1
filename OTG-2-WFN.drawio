@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T01:32:18.367Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.3.2" etag="hPrFPV5VEp-Q2nGDYFi-" type="github"><diagram id="IAvRb1Mowv6rL4-_BZ8W">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-10T01:36:34.067Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="RlCeMk5FMVQfxEtogCGa" version="14.3.2" type="github">
+  <diagram id="IAvRb1Mowv6rL4-_BZ8W" name="Page-1">
+    <mxGraphModel dx="946" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r-7cj7MpTaS03ObiOZMD-1" value="MDF Views" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r-7cj7MpTaS03ObiOZMD-2" value="Orchastration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r-7cj7MpTaS03ObiOZMD-3" value="OTG Components" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r-7cj7MpTaS03ObiOZMD-4" value="OTG Styles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r-7cj7MpTaS03ObiOZMD-6" value="WFN Services" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.services;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="r-7cj7MpTaS03ObiOZMD-7" value="TLM Services" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.services;" vertex="1" parent="1">
+          <mxGeometry x="680" y="255" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="r-7cj7MpTaS03ObiOZMD-8" value="Business Layer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
